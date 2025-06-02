@@ -42,7 +42,7 @@ This project analyzes real-world retail data to uncover trends, seasonality, and
 
 ## ?? Business Recommendations
 
-- Focus promotions in **Q4**, especially **November–December**
+- Focus promotions in **Q4**, especially **Novemberâ€“December**
 - Expand in **West and East regions**
 - Boost high-margin product bundles (e.g., Phones + Accessories)
 - Re-evaluate **Furniture** pricing and shipping costs
@@ -52,9 +52,9 @@ This project analyzes real-world retail data to uncover trends, seasonality, and
 
 ## ? Files Included
 
-- `superstore_trend_analysis.ipynb` — Main analysis notebook
-- `SuperstoreSales.csv` — Raw data
-- `README.md` — Project summary
+- `superstore_trend_analysis.ipynb` â€” Main analysis notebook
+- `SuperstoreSales.csv` â€” Raw data
+- `README.md` â€” Project summary
 
 ---
 
