@@ -1,10 +1,10 @@
-# ?? Superstore Sales Trend Analysis
+# 🛒 Superstore Sales Trend Analysis
 
 This project analyzes real-world retail data to uncover trends, seasonality, and region-wise performance across multiple product categories. It uses Python tools to clean, visualize, and extract insights that support better business decision-making.
 
 ---
 
-## ?? Project Objectives
+## 📊 Project Objectives
 
 - Analyze monthly and quarterly sales trends over time
 - Use rolling averages to detect underlying performance
@@ -13,7 +13,7 @@ This project analyzes real-world retail data to uncover trends, seasonality, and
 
 ---
 
-## ?? Dataset Overview
+## 📁 Dataset Overview
 
 - Source: [Selva86 / Superstore Dataset](https://github.com/selva86/datasets)
 - Fields: `Order Date`, `Sales`, `Profit`, `Category`, `Region`, `Sub-Category`, etc.
@@ -21,7 +21,7 @@ This project analyzes real-world retail data to uncover trends, seasonality, and
 
 ---
 
-## ?? Tools Used
+## 🧰 Tools Used
 
 - Python
 - Pandas & NumPy
@@ -30,19 +30,19 @@ This project analyzes real-world retail data to uncover trends, seasonality, and
 
 ---
 
-## ?? Key Insights
+## 📝 Key Insights
 
-- ?? **Sales peak in Q4**, especially in **December**
-- ??? **West and East** regions drive the most revenue
-- ?? **Technology** is the highest-grossing product category
-- ?? **Furniture** has high sales but inconsistent profits
-- ?? Sub-categories show **region-specific strengths**
+- 📈 **Sales peak in Q4**, especially in **December**
+- 🗺️ **West and East** regions drive the most revenue
+- 💻 **Technology** is the highest-grossing product category
+- 🪑 **Furniture** has high sales but inconsistent profits
+- 🧾 Sub-categories show **region-specific strengths**
 
 ---
 
-## ?? Business Recommendations
+## 💡 Business Recommendations
 
-- Focus promotions in **Q4**, especially **November�December**
+- Focus promotions in **Q4**, especially **November–December**
 - Expand in **West and East regions**
 - Boost high-margin product bundles (e.g., Phones + Accessories)
 - Re-evaluate **Furniture** pricing and shipping costs
@@ -50,15 +50,15 @@ This project analyzes real-world retail data to uncover trends, seasonality, and
 
 ---
 
-## ? Files Included
+## ✅ Files Included
 
-- `superstore_trend_analysis.ipynb` � Main analysis notebook
-- `SuperstoreSales.csv` � Raw data
-- `README.md` � Project summary
+- `superstore_trend_analysis.ipynb` — Main analysis notebook
+- `SuperstoreSales.csv` — Raw data
+- `README.md` — Project summary
 
 ---
 
-## ?? Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 - Time-series feature engineering
 - Sales trend visualization
